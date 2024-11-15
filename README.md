@@ -22,4 +22,5 @@ Smart Affiliate for Dokan integrates powerful affiliate marketing capabilities i
 5. Adjust commission percentage and other configurations to suit your needs.
 
    
-For more information, please visit this link: https://firexcore.com/smart-affiliate-dokan
+For more information, please visit this link: [https://firexcore.com/smart-affiliate-dokan
+](https://firexcore.com/smart-affiliate-for-dokan/)
